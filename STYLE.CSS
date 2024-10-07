@@ -1,0 +1,26 @@
+
+
+
+.mak{
+    text-align: center; 
+}
+
+.premier{
+    display: flex;
+}
+
+.deuxieme {
+    display: flex;
+    align-items: center;
+   justify-content: center;
+    
+    
+}
+
+.troisieme{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    margin: 50px;
+    
+}
